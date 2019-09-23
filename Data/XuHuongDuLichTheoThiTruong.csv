@@ -1,4 +1,7 @@
-id_mode,mode
-1,Air
-2,Sea
-3,Tunnel
+id_purpose,purpose
+1,Business
+2,Holiday
+3,Miscellaneous
+4,Study
+5,Transit
+6,VFR
